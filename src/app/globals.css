@@ -19,7 +19,7 @@ body {
 }
 
 a {
-  @apply text-blue-400 hover:underline transition-all;
+  @apply text-blue-400 hover:text-blue-300 hover:underline transition-all duration-200;
 }
 
 .card-grid {

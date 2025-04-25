@@ -7,6 +7,7 @@ const nextConfig = {
   images: {
     unoptimized: true, // Helpful for Cloudflare-hosted assets
   },
+  trailingSlash: true,
 };
 
 export default nextConfig;

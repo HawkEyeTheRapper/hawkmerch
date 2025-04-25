@@ -5,8 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Hawk Eye — Merch Hub",
-  description: "Official Hawk Eye merchandise. Limited drops, legacy collections, and esoteric streetwear from the Omniversal Archives.",
+  title: "Hawk Eye | Merch Hub & Lyrical Archives",
+  description:
+    "Official archive for Hawk Eye's merch, lyrical history, esoteric collections, and spiritual resistance material.",
 };
 
 export default function RootLayout({
